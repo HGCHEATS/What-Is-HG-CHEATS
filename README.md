@@ -46,19 +46,25 @@ This project is built with ethical boundaries in mind and is **not intended** fo
 
 ## 📊 GitHub Stats:
 
-**🌟 Total Stars Earned:**  **15,430**  
-**🛠️ Total Commits:**        **9,801**  
-**📬 Pull Requests:**         **1,640**  
-**❗ Issues Resolved:**     **1,202**  
-**🌍 Repos Contributed:**   **1,192**
+**🌟 Total Stars Earned:**            **15,430**  
+
+**🛠️ Total Commits:**                   **9,801** 
+
+**📬 Total Pull Requests:**           **1,640**
+
+**❗ Total Issues Resolved:**       **1,202**  
+
+**🌍 Contributed to Repos:**        **1,192**  
 
 ---
 
 ## 🎖️ Contribution Highlights:
 
-**🔥 Total Contributions:**   **7,425**  
-**⚡ Current Streak:**        **84 days**  
-**🏆 Longest Streak:**        **183 days**
+**🔥 Total Contributions:**           **7,425**   
+
+**⚡ Current Streak:**                   **84 days**  
+
+**🏆 Longest Streak:**                  **183 days**  
 
 ---
 
