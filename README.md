@@ -64,11 +64,11 @@ This project is built with ethical boundaries in mind and is **not intended** fo
 
 ## ♨️ Most Used Languages:
 
-**1. Python** — ███████████████████▌ 43.3%  
-**2. JavaScript** — █████████████▌ 31.2%  
-**3. C++** — ████████▋ 15.1%  
-**4. Lua** — ████▍ 7.2%  
-**5. Bash/Other** — █▊ 3.2%
+**1. Python**               ████████████████████▌ **43.3%**  
+**2. JavaScript**        ██████████████▌ **31.2%**  
+**3. C++**                   ████████▋ **15.1%**  
+**4. Lua**                    ████▍ **7.2%**  
+**5. Bash/Other**      █▊ **3.2%**  
 
 ---
 
