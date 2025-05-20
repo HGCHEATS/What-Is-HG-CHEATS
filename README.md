@@ -79,10 +79,14 @@ This project is built with ethical boundaries in mind and is **not intended** fo
 ---
 
 ## 🏆 GitHub Trophies:
-**⭐ Stars Given:** 5,000+  
-**🧠 Repositories Owned:** 85  
-**📈 Most Active Month:** January  
-**🎯 Profile Rank:** A++
+
+**⭐ Stars Given:**                      5,000+  
+
+**🧠 Repositories Owned:**       85  
+
+**📈 Most Active Month:**        January  
+
+**🎯 Profile Rank:**                    A++
 
 ---
 
