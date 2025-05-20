@@ -89,7 +89,7 @@ By using or referencing this repository, you agree to:
 - Avoid any unethical or unauthorized deployment
 - Take full responsibility for your usage
 
-➡️ [Read Full Disclaimer](./DISCLAIMER.md)
+➡️ [Read Full Disclaimer](https://github.com/HGCHEATS/DISCLAIMER)
 
 ---
 
